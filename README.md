@@ -1,6 +1,6 @@
 # Competitive-Intelligence-Analytics
 Product &amp; Brand Competitive Intelligence Analytics
-**Project Overview**
+**Project Overview**\
 This project delivers a comprehensive competitive intelligence analytics solution powered by Databricks and Amazon marketplace datasets. The workflow empowers business analysts, product managers and strategy teams with actionable insights into the competitive landscape across top brands and products.
 
 By enabling detailed comparisons of best-selling products and leading brands, the solution analyzes sales rank, pricing strategies, inventory dynamics and customer sentiment at scale. The result is a data-driven decision support system for strategic positioning and proactive market response.
